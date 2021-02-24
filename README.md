@@ -3,13 +3,13 @@
 # DOCS
 
 ## WAVEFORM
-![waveform](https://github.com/aykutshahin/AudioRecorderPlayer/blob/main/docs/project_setup.jpg)
+![waveform](https://github.com/aykutshahin/CustomArchitectureCPU/blob/main/docs/waveform.png)
 
 ## RTL
-![rtl](https://github.com/aykutshahin/AudioRecorderPlayer/blob/main/docs/block_diagram.jpg)
+![rtl](https://github.com/aykutshahin/CustomArchitectureCPU/blob/main/docs/rtl.png)
 
 ## FMAX
-![fmax](https://github.com/aykutshahin/AudioRecorderPlayer/blob/main/docs/state_machine_diagram.jpg)
+![fmax](https://github.com/aykutshahin/CustomArchitectureCPU/blob/main/docs/fmax.png)
 
 ## UTILIZATION REPORT
-![utilization report](https://github.com/aykutshahin/AudioRecorderPlayer/blob/main/docs/numerical_works.png)
+![utilization report](https://github.com/aykutshahin/CustomArchitectureCPU/blob/main/docs/utilizationreport.png)
