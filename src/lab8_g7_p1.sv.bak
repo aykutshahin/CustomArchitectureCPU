@@ -1,0 +1,24 @@
+/*
+Hazirlayanlar : Aykut Sahin ve Serhat Atilkan
+Problem 1 - Fetch Modulu(Lab grup7)
+*/
+module lab8_g7_p1(input logic clk, reset, output logic [31:0]pc,
+                  input logic pc_update, input logic [31:0] pc_new);
+
+always_ff @(posedge clk)
+begin
+if(!reset)
+begin
+pc<=0;
+end
+else if(pc_update)
+begin
+pc<=pc_new;
+end
+else
+begin
+pc <= pc + 4;
+end
+end
+                                  
+endmodule

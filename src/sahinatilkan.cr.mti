@@ -1,0 +1,43 @@
+{C:/Users/Aykut/Desktop/Lojik Devre/fpga/lab8_g7_p2/lab7_g7_p1.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Aykut/Desktop/Lojik Devre/fpga/lab8_g7_p2/lab7_g7_p1.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module lab7_g7_p1
+
+Top level modules:
+	lab7_g7_p1
+
+} {} {}} {C:/Users/Aykut/Desktop/Lojik Devre/fpga/lab8_g7_p2/sahinatilkan.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Aykut/Desktop/Lojik Devre/fpga/lab8_g7_p2/sahinatilkan.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module sahinatilkan
+
+Top level modules:
+	sahinatilkan
+
+} {} {}} {C:/Users/Aykut/Desktop/Lojik Devre/fpga/lab8_g7_p2/lab8_g7_p1.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Aykut/Desktop/Lojik Devre/fpga/lab8_g7_p2/lab8_g7_p1.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module lab8_g7_p1
+
+Top level modules:
+	lab8_g7_p1
+
+} {} {}} {C:/Users/Aykut/Desktop/Lojik Devre/fpga/lab8_g7_p2/lab7_g7_p2.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Aykut/Desktop/Lojik Devre/fpga/lab8_g7_p2/lab7_g7_p2.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module lab7_g7_p2
+
+Top level modules:
+	lab7_g7_p2
+
+} {} {}} {C:/Users/Aykut/Desktop/Lojik Devre/fpga/lab8_g7_p2/tb_sahinatilkan.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Aykut/Desktop/Lojik Devre/fpga/lab8_g7_p2/tb_sahinatilkan.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_lab8_g7_p1
+
+Top level modules:
+	tb_lab8_g7_p1
+
+} {} {}} {C:/Users/Aykut/Desktop/Lojik Devre/fpga/lab8_g7_p2/lab7_g7_p3.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Aykut/Desktop/Lojik Devre/fpga/lab8_g7_p2/lab7_g7_p3.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module lab7_g7_p3
+
+Top level modules:
+	lab7_g7_p3
+
+} {} {}}

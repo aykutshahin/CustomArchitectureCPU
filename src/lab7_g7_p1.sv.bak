@@ -1,0 +1,89 @@
+/*
+Hazirlayanlar: Aykut Sahin
+Ogrenci No: 171024034
+Komut ayirici modulu - Problem 1
+*/
+module lab7_g7_p1 (
+input logic clk, reset,
+input logic [31:0] komut,
+output logic [6:0] opcode,
+output logic [3:0] aluop,
+output logic [4:0] rs1,
+output logic [4:0] rs2,
+output logic [31:0] rs1_data,
+output logic [31:0] rs2_data,
+output logic [4:0] rd,
+output logic [31:0] imm,
+output logic hata
+);
+
+always_comb
+begin
+
+imm = 32'b0;
+
+case(komut[6:0])
+7'b0000001: // R type bit
+opcode = 7'b0000001;
+7'b0000011: // I type bit
+opcode = 7'b0000011;
+7'b0000111: // U type bit
+opcode = 7'b0000111;
+7'b0001111: // B type bit
+opcode = 7'b0001111;
+default: // Error bit
+opcode = 7'b0;
+endcase
+
+
+case(opcode)
+7'b0000001:  // R type bit
+begin
+rs2 = komut[24:20];
+rs1 = komut[19:15];
+rd = komut[11:7];
+aluop = {komut[30],komut[14:12]};
+imm = 32'b0;
+end
+7'b0000011: // I type bit
+begin
+rs2 = 5'b0;
+rs1 = komut[19:15];
+rd = komut[11:7];
+aluop = komut[14:12];
+imm[11:0] = komut[31:20];
+end
+7'b0000111: // U type bit
+begin
+rs2 = 5'b0;
+rs1 = 5'b0;
+aluop = 3'b0;
+rd = komut[11:7];
+imm[19:0] = komut[31:12];
+end
+7'b0001111: // B type bit
+begin
+rs2 = komut[24:20];
+rs1 = komut[19:15];
+rd = komut[11:7];
+aluop = komut[14:12];
+imm[12:6] = komut[31:25];
+imm[5:1] = komut[11:7];
+end
+default:
+begin
+rs2 = 5'b0;
+rs1 = 5'b0;
+aluop = 3'b0;
+rd = 5'b0;
+imm = 32'b0;
+end
+endcase
+end
+
+assign hata = opcode == 7'b0 ? 1'b1 : 1'b0;
+assign rs1_data = 32'b0;
+assign rs2_data = 32'b0;
+endmodule
+
+

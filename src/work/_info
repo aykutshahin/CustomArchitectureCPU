@@ -1,0 +1,178 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Aykut/Desktop/Lojik Devre/fpga/lab8_g7_p1
+vlab7_g7_p1
+Z0 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+!s110 1591634295
+!i10b 1
+!s100 f<ToGAmm?FN42GBHfTG^`0
+IQ;9LF[fY`7?1gZ6e=;Wn60
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+!s105 lab7_g7_p1_sv_unit
+S1
+Z2 dC:/Users/Aykut/Desktop/Lojik Devre/fpga/lab8_g7_p2
+w1591634289
+8C:/Users/Aykut/Desktop/Lojik Devre/fpga/lab8_g7_p2/lab7_g7_p1.sv
+FC:/Users/Aykut/Desktop/Lojik Devre/fpga/lab8_g7_p2/lab7_g7_p1.sv
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1591634295.000000
+!s107 C:/Users/Aykut/Desktop/Lojik Devre/fpga/lab8_g7_p2/lab7_g7_p1.sv|
+!s90 -reportprogress|300|-work|work|C:/Users/Aykut/Desktop/Lojik Devre/fpga/lab8_g7_p2/lab7_g7_p1.sv|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+vlab7_g7_p2
+R0
+!s110 1591633404
+!i10b 1
+!s100 0W4I[NFZ9T66VRz[64S0G3
+ISEh5ReS2go1OWO]>dCCAH1
+R1
+!s105 lab7_g7_p2_sv_unit
+S1
+R2
+w1591633400
+8C:/Users/Aykut/Desktop/Lojik Devre/fpga/lab8_g7_p2/lab7_g7_p2.sv
+FC:/Users/Aykut/Desktop/Lojik Devre/fpga/lab8_g7_p2/lab7_g7_p2.sv
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1591633404.000000
+!s107 C:/Users/Aykut/Desktop/Lojik Devre/fpga/lab8_g7_p2/lab7_g7_p2.sv|
+!s90 -reportprogress|300|-work|work|C:/Users/Aykut/Desktop/Lojik Devre/fpga/lab8_g7_p2/lab7_g7_p2.sv|
+!i113 1
+R4
+R5
+vlab7_g7_p3
+R0
+!s110 1591633504
+!i10b 1
+!s100 C8Rz:V_gdUXNTIfU[;[hY0
+IjN?UN4iX?AX3FVg^LPlP>2
+R1
+!s105 lab7_g7_p3_sv_unit
+S1
+R2
+w1591633498
+8C:/Users/Aykut/Desktop/Lojik Devre/fpga/lab8_g7_p2/lab7_g7_p3.sv
+FC:/Users/Aykut/Desktop/Lojik Devre/fpga/lab8_g7_p2/lab7_g7_p3.sv
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1591633504.000000
+!s107 C:/Users/Aykut/Desktop/Lojik Devre/fpga/lab8_g7_p2/lab7_g7_p3.sv|
+!s90 -reportprogress|300|-work|work|C:/Users/Aykut/Desktop/Lojik Devre/fpga/lab8_g7_p2/lab7_g7_p3.sv|
+!i113 1
+R4
+R5
+vlab8_g7_p1
+R0
+!s110 1591633559
+!i10b 1
+!s100 GDgU?C74<;odIMBECNLB@2
+I?YTWnSHJofYM9H;]P5>di3
+R1
+!s105 lab8_g7_p1_sv_unit
+S1
+R2
+w1591633552
+8C:/Users/Aykut/Desktop/Lojik Devre/fpga/lab8_g7_p2/lab8_g7_p1.sv
+FC:/Users/Aykut/Desktop/Lojik Devre/fpga/lab8_g7_p2/lab8_g7_p1.sv
+L0 5
+R3
+r1
+!s85 0
+31
+!s108 1591633559.000000
+!s107 C:/Users/Aykut/Desktop/Lojik Devre/fpga/lab8_g7_p2/lab8_g7_p1.sv|
+!s90 -reportprogress|300|-work|work|C:/Users/Aykut/Desktop/Lojik Devre/fpga/lab8_g7_p2/lab8_g7_p1.sv|
+!i113 1
+R4
+R5
+vlab8_g7_p3
+R0
+!s110 1591628731
+!i10b 1
+!s100 WVDXIH89dX;l6l^CoC[]?2
+IWUO>dWFoaDN4jWgX>8A=d0
+R1
+!s105 lab8_g7_p3_sv_unit
+S1
+R2
+w1591628724
+8C:/Users/Aykut/Desktop/Lojik Devre/fpga/lab8_g7_p2/lab8_g7_p3.sv
+FC:/Users/Aykut/Desktop/Lojik Devre/fpga/lab8_g7_p2/lab8_g7_p3.sv
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1591628731.000000
+!s107 C:/Users/Aykut/Desktop/Lojik Devre/fpga/lab8_g7_p2/lab8_g7_p3.sv|
+!s90 -reportprogress|300|-work|work|C:/Users/Aykut/Desktop/Lojik Devre/fpga/lab8_g7_p2/lab8_g7_p3.sv|
+!i113 1
+R4
+R5
+vsahinatilkan
+R0
+!s110 1591634030
+!i10b 1
+!s100 Ra0nfS6lbd?C>4Q@i]?`f3
+I9nO7<fgVW7R497YUj3INh2
+R1
+!s105 sahinatilkan_sv_unit
+S1
+R2
+w1591633940
+8C:/Users/Aykut/Desktop/Lojik Devre/fpga/lab8_g7_p2/sahinatilkan.sv
+FC:/Users/Aykut/Desktop/Lojik Devre/fpga/lab8_g7_p2/sahinatilkan.sv
+L0 5
+R3
+r1
+!s85 0
+31
+!s108 1591634030.000000
+!s107 C:/Users/Aykut/Desktop/Lojik Devre/fpga/lab8_g7_p2/sahinatilkan.sv|
+!s90 -reportprogress|300|-work|work|C:/Users/Aykut/Desktop/Lojik Devre/fpga/lab8_g7_p2/sahinatilkan.sv|
+!i113 1
+R4
+R5
+vtb_sahinatilkan
+R0
+!s110 1591633667
+!i10b 1
+!s100 CkTLc5OBI50f`nlLIe[;@0
+I>@=@UA92GC`I[aX1LZcZl1
+R1
+!s105 tb_sahinatilkan_sv_unit
+S1
+R2
+w1591633660
+8C:/Users/Aykut/Desktop/Lojik Devre/fpga/lab8_g7_p2/tb_sahinatilkan.sv
+FC:/Users/Aykut/Desktop/Lojik Devre/fpga/lab8_g7_p2/tb_sahinatilkan.sv
+L0 6
+R3
+r1
+!s85 0
+31
+!s108 1591633667.000000
+!s107 C:/Users/Aykut/Desktop/Lojik Devre/fpga/lab8_g7_p2/tb_sahinatilkan.sv|
+!s90 -reportprogress|300|-work|work|C:/Users/Aykut/Desktop/Lojik Devre/fpga/lab8_g7_p2/tb_sahinatilkan.sv|
+!i113 1
+R4
+R5
